@@ -1,6 +1,6 @@
 # Uptime Kuma
 
-<a target="_blank" href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/pulls/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/v/louislam/uptime-kuma/latest?label=docker%20image%20ver." /></a> <a target="_blank" href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/github/last-commit/louislam/uptime-kuma" /></a>  <a target="_blank" href="https://opencollective.com/uptime-kuma"><img src="https://opencollective.com/uptime-kuma/total/badge.svg?label=Open%20Collective%20Backers&color=brightgreen" /></a>
+<a target="_blank" href="https://github.com/Hattrick212/uptime-kuma"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/pulls/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/v/louislam/uptime-kuma/latest?label=docker%20image%20ver." /></a> <a target="_blank" href="https://github.com/Hattrick212/uptime-kuma"><img src="https://img.shields.io/github/last-commit/louislam/uptime-kuma" /></a>  <a target="_blank" href="https://opencollective.com/uptime-kuma"><img src="https://opencollective.com/uptime-kuma/total/badge.svg?label=Open%20Collective%20Backers&color=brightgreen" /></a>
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/louislam?label=GitHub%20Sponsors)](https://github.com/sponsors/louislam)
 
 <div align="center" width="100%">
@@ -25,9 +25,9 @@ VPS is sponsored by Uptime Kuma sponsors on [Open Collective](https://opencollec
 
 * Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / Ping / DNS Record / Push / Steam Game Server / Docker Containers.
 * Fancy, Reactive, Fast UI/UX.
-* Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP), and [90+ notification services, click here for the full list](https://github.com/louislam/uptime-kuma/tree/master/src/components/notifications).
+* Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP), and [90+ notification services, click here for the full list](https://github.com/Hattrick212/uptime-kuma/tree/master/src/components/notifications).
 * 20 second intervals.
-* [Multi Languages](https://github.com/louislam/uptime-kuma/tree/master/src/languages)
+* [Multi Languages](https://github.com/Hattrick212/uptime-kuma/tree/master/src/languages)
 * Multiple Status Pages
 * Map Status Page to Domain
 * Ping Chart
@@ -58,7 +58,7 @@ Required Tools:
 # Update your npm to the latest version
 npm install npm -g
 
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/Hattrick212/uptime-kuma.git
 cd uptime-kuma
 npm run setup
 
@@ -90,23 +90,23 @@ pm2 save && pm2 startup
 
 If you need more options or need to browse via a reverse proxy, please read:
 
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install
+https://github.com/Hattrick212/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install
 
 ## 🆙 How to Update
 
 Please read:
 
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
+https://github.com/Hattrick212/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
 
 ## 🆕 What's Next?
 
 I will mark requests/issues to the next milestone.
 
-https://github.com/louislam/uptime-kuma/milestones
+https://github.com/Hattrick212/uptime-kuma/milestones
 
 Project Plan:
 
-https://github.com/louislam/uptime-kuma/projects/1
+https://github.com/Hattrick212/uptime-kuma/projects/1
 
 ## ❤️ Sponsors
 
@@ -147,7 +147,7 @@ If you love this project, please consider giving me a ⭐.
 
 ### Issues Page
 
-You can discuss or ask for help in [issues](https://github.com/louislam/uptime-kuma/issues).
+You can discuss or ask for help in [issues](https://github.com/Hattrick212/uptime-kuma/issues).
 
 ### Subreddit
 
@@ -159,15 +159,15 @@ You can mention me if you ask a question on Reddit.
 
 ### Beta Version
 
-Check out the latest beta release here: https://github.com/louislam/uptime-kuma/releases
+Check out the latest beta release here: https://github.com/Hattrick212/uptime-kuma/releases
 
 ### Bug Reports / Feature Requests
-If you want to report a bug or request a new feature, feel free to open a [new issue](https://github.com/louislam/uptime-kuma/issues).
+If you want to report a bug or request a new feature, feel free to open a [new issue](https://github.com/Hattrick212/uptime-kuma/issues).
 
 ### Translations
-If you want to translate Uptime Kuma into your language, please read: https://github.com/louislam/uptime-kuma/tree/master/src/languages
+If you want to translate Uptime Kuma into your language, please read: https://github.com/Hattrick212/uptime-kuma/tree/master/src/languages
 
 Feel free to correct my grammar in this README, source code, or wiki, as my mother language is not English and my grammar is not that great.
 
 ### Pull Requests
-If you want to modify Uptime Kuma, this guideline may be useful for you: https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md
+If you want to modify Uptime Kuma, this guideline may be useful for you: https://github.com/Hattrick212/uptime-kuma/blob/master/CONTRIBUTING.md
